@@ -1,7 +1,7 @@
 public class Rectangle {
 
 	public int width;
-	public int length
+	public int length;
 
 	public Rectangle(int length, int width) {
 		this.length = length;
