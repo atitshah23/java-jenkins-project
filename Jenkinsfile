@@ -1,5 +1,5 @@
 node ('master') {
 		stage('build') {
-			sh 'ant -f build.xml -v'
+			sh 'ant -f ./build.xml -v'
 	}
 }
