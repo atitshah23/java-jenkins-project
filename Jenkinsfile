@@ -1,1 +1,1 @@
-sh 'ant -f build.xml -v'
+sudo sh 'ant -f build.xml -v'
